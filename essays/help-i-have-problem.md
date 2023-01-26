@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/stackoverflow-1.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/stackoverflow-1.png">
 
 ## Some Questions Are Good
 
@@ -21,7 +21,7 @@ While searching through stackOverflow for questions, I came across a perfect exa
 
 This type of question would be much more suitable for homework solving forums such as Chegg, not on stackOverflow. The question had only one comment which asked about the tags. Some ways to improve this question could be to provide an example of where they currently are in the process, some lines of code would help. I also think it would be important to not pose the question as a homework problem, but instead as a point in which they got stuck and would need some assistance. Here is a link to [the question](https://stackoverflow.com/questions/75240738/create-a-program-in-c).
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/confused_man.jpg">
+<img width="400px" class="text-center p-4" src="../img/essays/confused_man.jpg">
 
 ## Some Questions Make Me Happy
 
