@@ -21,6 +21,8 @@ While searching through stackOverflow for questions, I came across a perfect exa
 
 This type of question would be much more suitable for homework solving forums such as Chegg, not on stackOverflow. The question had only one comment which asked about the tags. Some ways to improve this question could be to provide an example of where they currently are in the process, some lines of code would help. I also think it would be important to not pose the question as a homework problem, but instead as a point in which they got stuck and would need some assistance. Here is a link to [the question](https://stackoverflow.com/questions/75240738/create-a-program-in-c).
 
+<img width="200px" class="rounded float-start pe-4" src="../img/essays/confused_man.jpg">
+
 ## Some questions make me happy
 
 While searching through stackOverflow for questions, again, I came across a perfect example of how exactly to ask a question. Asked 17 days ago, tagged with r, and ggplot2 from a user with a lot of prior activity (top 6% in reputation this year). They asked about ordering values on an x-axis. Seems simple enough right? Not according to this user. They found a solution that involves changing the x-values manually but they could not find any references on how to automatically correct them, most likely to help them out in future projects with bigger data sets. To assist with anyone that wants to help, they provided code for how they got the data, how the data was manipulated, and how the plot was created. They also clearly stated what they wanted and other alternative solutions they've tried.
