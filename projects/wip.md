@@ -8,10 +8,10 @@ published: true
 labels:
   - STEM
 
-summary: "Page under construction"
+summary: "Science Olympiad is a STEM based, team competition where competitors from grades K-12 compete in Science based events."
 ---
 
-<img class="img-fluid" src="../img/projects/SCI_OLY_LOGO.jpeg">
+<img width="400px" class="text-center p-4" src="../img/projects/SCI_OLY_LOGO.jpeg">
 
 Science Olympiad is a STEM based, team competition where competitors from grades K-12 compete in Science based events. These events can range from physics based to biology based, with a lot of other topics in between.
 
