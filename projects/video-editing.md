@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/projects/Vegas_Pro_14.png
 title: "Video Editing"
-date: 2022
+date: 2019
 published: true
 labels:
   - Video
@@ -11,7 +11,7 @@ labels:
 summary: "Sony Vegas Pro 14 is a video editing software made in 2016 for video creators to edit and export videos."
 ---
 
-<img width="400px" class="text-center p-4" src="../img/projects/Vegas_Pro_14.png">
+<img width="400px" class="text-center rounded float-start pe-4" src="../img/projects/Vegas_Pro_14.png">
 
 Sony Vegas Pro 14 is a video editing software made in 2016 for video creators to edit and export videos. It has many tools to manipulate video and audio, and also has a seamless and smooth interface.
 
