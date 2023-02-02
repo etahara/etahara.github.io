@@ -1,19 +1,19 @@
 ---
 layout: project
 type: project
-image: img/projects/SCI_OLY_LOGO.jpeg
+image: img/projects/Vegas_Pro_14.png
 title: "Video Editing"
 date: 2022
-published: false
+published: true
 labels:
   - Video
 
-summary: "Science Olympiad is a STEM based, team competition where competitors from grades K-12 compete in Science based events."
+summary: "Sony Vegas Pro 14 is a video editing software made in 2016 for video creators to edit and export videos."
 ---
 
-<img width="400px" class="text-center p-4" src="../img/projects/SCI_OLY_LOGO.jpeg">
+<img width="400px" class="text-center p-4" src="../img/projects/Vegas_Pro_14.png">
 
-Sony Vegas is a video editing software made for video creators to edit and export videos. It has many tools to manipulate video and audio, and also has a seamless and smooth interface.
+Sony Vegas Pro 14 is a video editing software made in 2016 for video creators to edit and export videos. It has many tools to manipulate video and audio, and also has a seamless and smooth interface.
 
 I used Sony Vegas to edit together multiple video clips I took on my trip to New York in my Science Olympiad Nationals tournament. I sadly won't be able to share any of the clips or videos out of privacy of the people I was with, as I shared it only to them. I can however speak about my experience with it and what I learned about creating videos and editing that I did not know prior to even filming.
 
