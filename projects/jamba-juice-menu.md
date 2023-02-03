@@ -21,8 +21,8 @@ I think creating a menu based project to learn class and constructors was a very
 
 Here is some code to illustrate the constructor, an example class, and the test functions and the output
 
-<img width="600px" class="text-center p-4" src="../img/projects/Constructor_and_Class.png">
-<img width="600px" class="text-center p-4" src="../img/projects/test_function.png">
-<img width="600px" class="text-center p-4" src="../img/projects/result.png">
+<img width="400px" class="text-center p-4" src="../img/projects/Constructor_and_Class.png">
+<img width="400px" class="text-center p-4" src="../img/projects/test_function.png">
+<img width="400px" class="text-center p-4" src="../img/projects/result.png">
 
 [Source](http://courses.ics.hawaii.edu/ics314s23/morea/javascript-2/experience-jamba-juice-1.html)
