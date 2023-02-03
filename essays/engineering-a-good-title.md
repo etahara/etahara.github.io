@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/honse.jpg">
+<img width="200px" class="text-center rounded float-start pe-4" src="../img/essays/honse.jpg">
 
 ## First you take it, then you make it
 
