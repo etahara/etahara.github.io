@@ -11,7 +11,7 @@ labels:
 summary: "My first experience with classes and constructors in Javascript"
 ---
 
-<img width="200px" class="text-center rounded float-start pe-4" src="../img/projects/jambajuicemenu.jpg">
+<img width="400px" class="text-center rounded float-start pe-4" src="../img/projects/jambajuicemenu.jpg">
 
 Javascript is a scripting language created by Brendan Eich in 1995 that was originally used for the Netscape Navigator web browser. In my ICS 314 class we use it as a means to study software engineering and to create short programs to experience programming. 
 
@@ -22,8 +22,9 @@ I think creating a menu based project to learn class and constructors was a very
 Here is some code to illustrate the constructor, an example class, and the test functions and the output
 
 <img width="600px" class="text-center rounded float-start pe-4" src="../img/projects/Constructor_and_Class.png">
-<img width="600px" class="text-center rounded float-start pe-4" src="../img/projects/result.png">
 <img width="600px" class="text-center rounded float-start pe-4" src="../img/projects/test_function.png">
+<img width="600px" class="text-center rounded float-start pe-4" src="../img/projects/result.png">
+
 
 
 
