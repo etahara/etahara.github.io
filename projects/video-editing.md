@@ -8,7 +8,7 @@ published: true
 labels:
   - Video
 
-summary: "Sony Vegas Pro 14 is a video editing software made in 2016 for video creators to edit and export videos."
+summary: "I created and edited a video vlog for the first time."
 ---
 
 <img width="200px" class="text-center rounded float-start pe-4" src="../img/projects/Vegas_Pro_14.png">
