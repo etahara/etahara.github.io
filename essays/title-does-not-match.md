@@ -4,7 +4,7 @@ type: essay
 title: "Error: Title must match file name"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-07
-published: false
+published: true
 labels:
   - Javascript
 ---
