@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Walking%20Clipart.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/essays/coding_style.png">
 
 ## Capitalize the First Word, Nouns, Pronouns, Adjectives, Verbs and Adverbs
 
