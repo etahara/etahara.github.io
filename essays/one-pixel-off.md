@@ -9,7 +9,7 @@ labels:
   - HTML
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/essays/my-version.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/essays/my-version.png">
 
 ## Why Won't This Darn Thing Start?
 
