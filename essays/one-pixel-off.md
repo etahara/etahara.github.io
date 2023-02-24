@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "One Pixel Off"
 # All dates must be YYYY-MM-DD format!
-date: 2023-02-08
+date: 2023-02-23
 published: true
 labels:
   - HTML
