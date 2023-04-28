@@ -7,6 +7,7 @@ date: 2023-04-27
 published: true
 labels:
   - Javascript
+  - Software Engineering
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/essays/patterns.png">
