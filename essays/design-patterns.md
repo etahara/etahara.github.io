@@ -14,7 +14,7 @@ labels:
 ## What Are Design Patterns?
 ## I have no idea
 
-Is what I would have said if I was DUMB
+Which would be a very bad thing if I didn't use these patterns every day of my life. This may be targeted more towards a software perspective but design patterns are used outside of the field as well. Every day you exhibit a design pattern to get you through your life. Can't get out of bed? Perform the stand up and go to the bathroom pattern. Pattern and repetition is how many of us live and is the only way we get through our life. I think the most common design pattern you've probably heard of, whether you're in the software field or not, is the method of turning something off and on again. This is the simplest, yet most effective method of fixing a problem that, lukily, everyone knows how to do. This part of knowing how to perform the pattern is extremely important to solving problems in real life and in the software field. If you grabbed a person from the 12th century and put them in a room with a light that was on but wasn't working and you told them to turn it off and on, they'd likely grab a knife and stab you. They also probably won't turn it off and on.
 
 ## some questions put me in a bad mood
 
