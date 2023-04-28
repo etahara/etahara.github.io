@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/essays/stackoverflow-1.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/essays/patterns.png">
 
 ## What Are Design Patterns?
 ## I have no idea
