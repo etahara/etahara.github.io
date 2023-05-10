@@ -1,20 +1,24 @@
 ---
 layout: project
 type: project
-image: img/projects/SCI_OLY_LOGO.jpeg
-title: "Science Olympiad"
-date: 2022
+image: img/projects/logo.png
+title: "Manoa ICStudy"
+date: 2023
 published: true
 labels:
-  - STEM
+  - Meteor
+  - React
+  - Web Development
 
-summary: "My experience with Science Olympiad after high school."
+summary: "A website made for ICS students at UH Manoa to find time to study together."
 ---
 
-<img width="400px" class="text-center p-4" src="../img/projects/SCI_OLY_LOGO.jpeg">
+<img width="400px" class="text-center p-4" src="../img/projects/logo.png">
 
-Science Olympiad is a STEM based, team competition where competitors from grades K-12 compete in Science based events. These events can range from physics based to biology based, with a lot of other topics in between.
+For my ICS 314 class, I worked with a team to develop a website where UH Manoa students could buy and sell second-hand school and dorm related items. We used React Bootstrap for this project, and used an issue driven project management style to organize ourselves.
 
-I competed in it since 8th grade and have stuck around helping my state and alumni school. For the 2022 state tournament I was asked by the state director to write a test and proctor an event called Sounds of Music (like the movie). For this event competitors needed to have knowledge around the physics of sound and to create an instrument to play. To test these instruments I used a program made by the tournament officials that can be found [here](https://www.pascioly.org/sounds/). Each of the instruments had to be pitched properly and play a chromatic scale of their choosing, and a small snippit of a song.
+For my ICS 314 final project, I was tasked to work with a team to develop a website around a problem of our choosing. Our team chose to tackle the problem of ICS students not learning subjects and topics well enough, whether it be due to professors or an inability to wrap their head around a concept. Our website makes it easy to create sessions with other students that have taken the course or are taking it. For this project we used React and Meteor to develop the website. We also used an issue driven project management style to divy up the workload and focus on certain tasks.
 
-I think the hardest part of this was just relearning everything I learned in 2 years of highschool in a couple of weeks before the tournament. Luckily I had some friends that were helping at the tournament that I could consult with beforehand about how I should go about creating the test and also had some of them help out during the testing period.
+I learned a lot about working with a team on a project like this and had a really great time with all of my team members.
+
+You can view our introductory website [here](https://manoa-icstudy.github.io/) and our actual website [here](https://manoa-icstudy.site/).
