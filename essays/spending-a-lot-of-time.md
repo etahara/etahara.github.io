@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/essays/my-version.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/essays/software-engineering.webp">
 
 ## I Took A $1000 College Class For Job Experience?
 
