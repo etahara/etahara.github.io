@@ -1,0 +1,56 @@
+{
+  "basics": {
+    "name": "Evan Tahara",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/122936441?s=400&u=e7d06c9334ad4e181f8460e2dd79b75ded49811a&v=4",
+    "email": "evandt@hawaii.edu",
+    "phone": "808-255-1492",
+    "website": "https://etahara.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "etahara", "url": "http://github.com/etahara" },
+      { "network": "linkedin", "username": "Evan Tahara", "url": "https://www.linkedin.com/in/evan-tahara-210050262/" },
+      { "network": "instagram", "username": "e.tah_", "url": "http://instagram.com/e.tah_" }
+    ]
+  },
+  "interests": [
+    { "name": "Data Analysis" },
+    { "name": "Machine Learning" },
+    { "name": "Game Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "MacOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2020-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.5 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
