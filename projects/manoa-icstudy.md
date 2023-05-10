@@ -13,7 +13,7 @@ labels:
 summary: "A website made for ICS students at UH Manoa to find time to study together."
 ---
 
-<img width="400px" class="text-center p-4" src="../img/projects/logo.png">
+<img width="200px" class="text-center p-4" src="../img/projects/logo.png">
 
 For my ICS 314 class, I worked with a team to develop a website where UH Manoa students could buy and sell second-hand school and dorm related items. We used React Bootstrap for this project, and used an issue driven project management style to organize ourselves.
 
